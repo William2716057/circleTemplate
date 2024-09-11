@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circles\circles\obj\Debug\circles.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circles\circles\obj\Debug\circles.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circles\circles\bin\Microsoft.NodejsTools.WebRole.dll
